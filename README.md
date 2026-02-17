@@ -1,7 +1,7 @@
 # Monochromea
 An Image Processing and Editing Desktop Application
 
-##✒️ Author
+✒️ ## Author
 Obiefule Ifunanya Cordis
 
 B.Sc. Computer Science Student (Graduating 2026) 
